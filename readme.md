@@ -1,4 +1,4 @@
-This is a saliency code implemented via pytorch
+The core code for three stage saliency is provided here, which is implemented via pytorch.
 
 generate training set index:
 gen_label_csv.py
